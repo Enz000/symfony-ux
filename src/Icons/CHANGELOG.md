@@ -4,6 +4,7 @@
 
 -   Add `aliases` configuration option to define icon alternative names.
 -   Add support for `int` and `float` attribute values in `<twig:ux:icon />`.
+-   Add `xmlns` attribute in downloaded svg.
 
 ## 2.19.0
 
